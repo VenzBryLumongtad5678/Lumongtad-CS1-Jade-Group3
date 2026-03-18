@@ -2,8 +2,8 @@
 ### v1.0.0 - [3/18/2026] - Added name: Venz Bry.
 (@VenzBryLumongtad5678)
 
-### v1.1.0 - [Date] - Added age/address.
-(@User)
+### v1.1.0 - [3/18/2026] - Added age/address.
+(@cateon13)
 
-### v1.2.0 - [Date] - Added birth math.
-(@User)
+### v1.2.0 - [3/18/2026] - Added birth math.
+(@Kelpme3)
