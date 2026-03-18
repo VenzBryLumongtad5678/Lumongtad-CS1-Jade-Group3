@@ -1,5 +1,7 @@
 name = input("Name? ")
 print("Hello " + name)
-
+age = input("Age? ")
+addr = input("City? ")
+print( "name" + " lives in " + addr)
 year = 2026 - int(12)
 print("Born in:(2013) " + str(year))
